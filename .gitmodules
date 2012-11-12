@@ -28,3 +28,9 @@
 [submodule "WebKit"]
 	path = WebKit
 	url = git://github.com/isis-project/WebKit.git
+[submodule "cmake-modules-webos"]
+	path = cmake-modules-webos
+	url = git://github.com/openwebos/cmake-modules-webos.git
+[submodule "pmcertificatemgr"]
+	path = pmcertificatemgr
+	url = git://github.com/openwebos/pmcertificatemgr.git
