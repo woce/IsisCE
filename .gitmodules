@@ -1,18 +1,9 @@
-[submodule "BrowserServer"]
-	path = BrowserServer
-	url = git://github.com/isis-project/BrowserServer.git
-[submodule "BrowserAdapter"]
-	path = BrowserAdapter
-	url = git://github.com/isis-project/BrowserAdapter.git
 [submodule "pdnjson"]
 	path = pdnjson
 	url = git://github.com/isis-project/pbnjson.git
 [submodule "libpbnjson"]
 	path = libpbnjson
 	url = git://github.com/openwebos/libpbnjson.git
-[submodule "isis-browser"]
-	path = isis-browser
-	url = git://github.com/isis-project/isis-browser.git
 [submodule "isis-fonts"]
 	path = isis-fonts
 	url = git://github.com/isis-project/isis-fonts.git
