@@ -27,13 +27,13 @@
 	url = git://github.com/openwebos/pmcertificatemgr.git
 [submodule "BrowserServer"]
 	path = BrowserServer
-	url = git://github.com/openwebos-ports/BrowserServer.git
+	url = git://github.com/woce/BrowserServer.git
 [submodule "BrowserAdapter"]
 	path = BrowserAdapter
-	url = git://github.com/openwebos-ports/BrowserAdapter.git
+	url = git://github.com/woce/BrowserAdapter.git
 [submodule "isis-browser"]
 	path = isis-browser
-	url = git://github.com/openwebos-ports/isis-browser.git
+	url = git://github.com/woce/isis-browser.git
 [submodule "enyo-1.0"]
 	path = enyo-1.0
-	url = git://github.com/openwebos-ports/enyo-1.0.git
+	url = git://github.com/woce/enyo-1.0.git
