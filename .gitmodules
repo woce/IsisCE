@@ -1,0 +1,39 @@
+[submodule "pdnjson"]
+	path = pdnjson
+	url = git://github.com/isis-project/pbnjson.git
+[submodule "libpbnjson"]
+	path = libpbnjson
+	url = git://github.com/openwebos/libpbnjson.git
+[submodule "isis-fonts"]
+	path = isis-fonts
+	url = git://github.com/isis-project/isis-fonts.git
+[submodule "npapi-headers"]
+	path = npapi-headers
+	url = git://github.com/isis-project/npapi-headers.git
+[submodule "AdapterBase"]
+	path = AdapterBase
+	url = git://github.com/isis-project/AdapterBase.git
+[submodule "WebKitSupplemental"]
+	path = WebKitSupplemental
+	url = git://github.com/isis-project/WebKitSupplemental.git
+[submodule "WebKit"]
+	path = WebKit
+	url = git://github.com/isis-project/WebKit.git
+[submodule "cmake-modules-webos"]
+	path = cmake-modules-webos
+	url = git://github.com/openwebos/cmake-modules-webos.git
+[submodule "pmcertificatemgr"]
+	path = pmcertificatemgr
+	url = git://github.com/openwebos/pmcertificatemgr.git
+[submodule "BrowserServer"]
+	path = BrowserServer
+	url = git://github.com/openwebos-ports/BrowserServer.git
+[submodule "BrowserAdapter"]
+	path = BrowserAdapter
+	url = git://github.com/openwebos-ports/BrowserAdapter.git
+[submodule "isis-browser"]
+	path = isis-browser
+	url = git://github.com/openwebos-ports/isis-browser.git
+[submodule "enyo-1.0"]
+	path = enyo-1.0
+	url = git://github.com/openwebos-ports/enyo-1.0.git
